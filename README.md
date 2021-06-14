@@ -86,5 +86,5 @@ If two clusters are merged, the dendrogram will join them in a graph and the hei
 
 <h2>Result</h2>
  
-<img src="images/Result.png" height="600">
+<img src="images/Results.png" height="300">
  
