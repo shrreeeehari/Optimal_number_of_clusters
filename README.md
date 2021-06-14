@@ -5,6 +5,7 @@ Performance comparison of various techniques for determining the optimal number 
 ![](images/cluster.jpg)
 
 We have used 6 clustering methods:
+
 1.Elbow Method
 
 2.Average Silhouette Method
