@@ -73,19 +73,18 @@ If two clusters are merged, the dendrogram will join them in a graph and the hei
 
 <h4>Optimal Clusters</h4> - Hierarchical structure of the dendrogram
 
-<h1>Observed Results<h1>
+<h2>Observed Results</h2>
+<h4>Iris Dataset</h4>
+<img src="images/Iris.png" height="400">
 <br>
-<h2>Iris Dataset<h2>
-<img src="images/Iris.png" height="800">
- <br>
-<h2>Boston Dataset<h2>
+<h2>Boston Dataset</h2>
 <img src="images/Boston.png" height="800">
  <br>
-<h2>Digits Dataset<h2>
+<h2>Digits Dataset</h2>
 <img src="images/Digits.png" height="800">
 
 
-<h1>Result<h1>
+<h2>Result</h2>
  
 <img src="images/Result.png" height="800">
  
