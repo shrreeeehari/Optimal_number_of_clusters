@@ -7,7 +7,7 @@ from sklearn.preprocessing import StandardScaler
 import matplotlib.pyplot as plt
 
 from sklearn import datasets
-iris = datasets.load_wine()
+iris = datasets.load_iris()
 
 
 import warnings
