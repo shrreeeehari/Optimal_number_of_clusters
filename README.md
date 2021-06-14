@@ -39,7 +39,7 @@ It calculates the Within-Cluster-Sum of Squared Errors (WSS) for different value
 
 The silhouette value measures how similar a point is to its own cluster (cohesion) compared to other clusters (separation). 
 
-<h4>Optimal Cluster</h4> - Cluster K with the highest peak (average silhouette score)
+<h4>Optimal Clusters</h4> - Cluster K with the highest peak (average silhouette score)
 
 
 <h2>Gap Statistics Method</h2>
@@ -47,7 +47,7 @@ The silhouette value measures how similar a point is to its own cluster (cohesio
 Compares the total within intra-cluster variation [wss] for different values of k with their expected values under null reference distribution of the data.
 The estimate of the optimal clusters will be value that maximize the gap statistic.
 
-<h4>Optimal Cluster</h4> - Cluster K with the max gap statistic
+<h4>Optimal Clusters</h4> - Cluster K with the max gap statistic
 
 
 <h2>Davies-Bouldin Index</h2>
@@ -56,14 +56,14 @@ Evaluates intra-cluster similarity and inter-cluster differences.
 If two clusters are close together but have a large spread then this ratio will
 be large, indicating that these clusters are not very distinct.
 
-<h4>Optimal Cluster</h4> - Cluster K with the least DBI
+<h4>Optimal Clusters</h4> - Cluster K with the least DBI
 
 
 <h2>Calinski-Harabasz Index</h2>
 
 The index is calculated by dividing the variance of the sums of squares of the distances of individual objects to their cluster center by the sum of squares of the distance between the cluster centers.
 
-<h4>Optimal Cluster</h4> - Cluster K with the highest CHI
+<h4>Optimal Clusters</h4> - Cluster K with the highest CHI
 
 
 <h2>Dendrogram</h2>
@@ -71,6 +71,6 @@ The index is calculated by dividing the variance of the sums of squares of the d
 It considers each point as a separate cluster and starts joining points to clusters in a hierarchical fashion based on their distances.
 If two clusters are merged, the dendrogram will join them in a graph and the height of the join will be the distance between those clusters.
 
-<h4>Optimal Cluster</h4> - Hierarchical structure of the dendrogram
+<h4>Optimal Clusters</h4> - Hierarchical structure of the dendrogram
 
 
