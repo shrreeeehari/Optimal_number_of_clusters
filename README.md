@@ -78,7 +78,7 @@ If two clusters are merged, the dendrogram will join them in a graph and the hei
 <img src="images/Iris.png" height="400">
 <br>
 <h2>Boston Dataset</h2>
-<img src="images/Boston.png" height="800">
+<img src="images/Boston.png" height="600">
  <br>
 <h2>Digits Dataset</h2>
 <img src="images/Digits.png" height="800">
