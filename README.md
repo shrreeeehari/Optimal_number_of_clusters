@@ -19,9 +19,14 @@ We have used 6 clustering methods:
 
 The above techniques have been tested over open source available datasets imported using sklearn library which are:
 Datasets used:
+
 1.Boston
 
 2.Iris
 
 3.Digits
+
+Elbow Method
+
+It calculates the Within-Cluster-Sum of Squared Errors (WSS) for different values of k, choose the k for which WSS first starts to diminish. 
 
