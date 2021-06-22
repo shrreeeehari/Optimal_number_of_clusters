@@ -44,7 +44,6 @@ visualizer.fit(df)
 visualizer.show()        
 
 
-
 # Dendogram for Heirarchical Clustering ==================================
 import scipy.cluster.hierarchy as shc
 from matplotlib import pyplot
